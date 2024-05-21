@@ -18,7 +18,7 @@ SQL 쿼리 문제 풀어요
 ### 📍 Pandas
 
 내가 보려고 만드는 Pandas 문법책 
-* [Pandas](https://github.com/leeeug-da/TIL/tree/main/DA_Pandas)
+* [Pandas](https://github.com/leeeug-da/TIL/blob/main/DA_Pandas/Pandas.ipynb)
 
 ### 📍 Numpy
 
